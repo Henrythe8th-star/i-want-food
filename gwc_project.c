@@ -6,7 +6,7 @@ void setup() {
   // put your setup code here, to run once:
   lcd.begin(16, 2);
 
-  lcd.print("i want food!");
+  lcd.print("Emma is smelly!");
 
 }
 
